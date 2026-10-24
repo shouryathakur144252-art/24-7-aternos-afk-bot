@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Shouryathakur.aternos.me:49775",
-    "port": 25565,
+    "ip": "Shouryathakur.aternos.me",
+    "port": 49775,
     "version": "1.20.1",
     "try-creative": false
   },
